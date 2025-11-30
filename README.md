@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheshpalsingh01/01_churn_prediction/main/churn prediction.png" width="100%">
+  <img src="https://raw.github.com/sheshpalsingh01/01_churn_prediction/main/churn prediction.png" width="100%">
 </p>
 
 
