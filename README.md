@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheshpalsingh01/01_churn_prediction/main/churn prediction.png" width="100%">
+</p>
+
+
 # Resume Ranker AI
 
 ## 📌 Overview
 An AI tool that ranks resumes based on JD matching using TF-IDF + Logistic Regression.  
-Includes feature selection approach.
+Includes a feature selection approach.
 
 ## 🔧 Techniques Used
 - NLP preprocessing
